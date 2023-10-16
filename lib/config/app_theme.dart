@@ -10,7 +10,21 @@ const colorList = <Color>[
   Colors.orange,
   Colors.pink,
   Colors.pinkAccent,
+  Color(0xff10b981),
+  Color(0xff059669),
+  Color(0xff047857),
+  Color(0xff065f46),
+  Color(0xff064e3b),
+  Color(0xffa16207),
+  Color(0xff854d0e),
+  Color(0xff713f12),
+  Color(0xff422006),
+  Color(0xffd1fae5),
 ];
+
+
+
+
 
 class AppTheme {
   final int selectedColor;
